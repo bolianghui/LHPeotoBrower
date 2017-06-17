@@ -1,4 +1,4 @@
-# LHPeotoBrower
+# LHPhotoBrower
 ## 网页图片浏览器
 
 # How To Used
